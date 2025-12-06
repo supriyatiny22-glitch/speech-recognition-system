@@ -24,3 +24,4 @@ Overall, this project demonstrates how speech recognition works internally and p
 
 *output*
 
+![Image](https://github.com/user-attachments/assets/14c970ec-7e55-41f0-9e50-90cb545e9e86)
